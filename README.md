@@ -1,4 +1,4 @@
-# WP Admin Menu
+# WPAdminSettings
 An easy option and settings management framework for WordPress, Developer friendly and elegant look build with native WordPress UI,  
 
 #### Version: 1.0.0
@@ -252,16 +252,9 @@ $WPAdminSettings_sub = new WPAdminSettings( $sub_args );
 ### Screenshots
 
 #### Add main menu
-![alt text](https://github.com/jaedm97/Pick-Settings/blob/master/screenshots/add-main-menu.png "Add main menu")
+![alt text](https://github.com/pickplugins/WPAdminSettings/blob/master/images/main-menu.png?raw=true "Add main menu")
 
-#### Add options to main menu
-![alt text](https://github.com/jaedm97/Pick-Settings/blob/master/screenshots/add-options-to-main-menu.png "Add options to main menu")
-
-#### Add another page
-![alt text](https://github.com/jaedm97/Pick-Settings/blob/master/screenshots/add-another-page.png "Add another page")
 
 #### Add sub menu
-![alt text](https://github.com/jaedm97/Pick-Settings/blob/master/screenshots/add-sub-menu.png "Add sub menu")
+![alt text](https://github.com/pickplugins/WPAdminSettings/blob/master/images/submenu.png?raw=true "Add sub menu")
 
-#### Add options to sub menu
-![alt text](https://github.com/jaedm97/Pick-Settings/blob/master/screenshots/add-options-to-sub-menu.png "Add options to sub menu")
