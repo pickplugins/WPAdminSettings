@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+.wpadminsettings{}
+
+
+.wpadminsettings input[type="text"], .wpadminsettings textarea, .wpadminsettings select, .wpadminsettings input[type="range"], .wpadminsettings input[type="number"],.wpadminsettings .select2 {
+    width: 320px;
+}
+
+
+
+/*addons-grid*/
+.addons-grid{}
+.addons-grid .item{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    background: #ddd;
+    overflow: hidden;
+}
+.addons-grid .name{
+
+}
+
+.addons-grid .name a{
+    margin: 10px;
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+}
+
+
+.addons-grid .thumb{ }
+.addons-grid .thumb img{
+    width: 100%;
+    height: auto;
+}
+
+/*faq-list*/
+
+.faq-list{}
+.faq-list .faq-item{
+    margin: 5px 0;
+}
+.faq-list .faq-header{
+    padding: 10px;
+    background: #ddd;
+}
+.faq-list .faq-content{
+    padding: 10px;
+    background: #e5e5e5;
+}
+
+/*addons-grid*/
+
+.addons-grid{}
+.addons-grid .item{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    background: #ddd;
+    overflow: hidden;
+}
+.addons-grid .name{
+
+}
+
+.addons-grid .name a{
+    margin: 10px;
+    text-decoration: none;
+    display: block;
+    font-weight: 600;
+}
+
+
+.addons-grid .thumb{ }
+.addons-grid .thumb img{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
